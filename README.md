@@ -21,6 +21,7 @@ This is a real-time Live Auction Bid Platform built with Laravel. The platform s
 - Only available to authenticated users.
 
 🔐 Admin Credentials
+
 Email: admin@gmail.com  
 Password: password
 
