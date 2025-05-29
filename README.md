@@ -31,3 +31,5 @@ Password: password
 - MySQL – Database
 - WebSocket – Real-time communication
 - AJAX / JavaScript – Dynamic content updates
+
+🔍 Check the 'My DB' folder in the project root to find the Database file.
